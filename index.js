@@ -17,5 +17,5 @@ var i=0;
 
 var p = document.createElement("h1");
 p.setAttribute('id','display');
-p.setAttribute('style','text-align:center');
+p.setAttribute('style','text-align:center;color:green');
 document.body.append(p);
